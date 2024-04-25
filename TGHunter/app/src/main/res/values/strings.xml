@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">FTELEGRAM</string>
+    <string name="button_profiles_name">Profiles</string>
+    <string name="button_parse_data_name">Parse data</string>
+    <string name="button_massjoin_name">Massjoin</string>
+    <string name="button_massview_name">Massview</string>
+    <string name="button_massreact_name">Massreact</string>
+    <string name="button_spam_name">Spam</string>
+    <string name="button_homepage_name">Homepage</string>
+    <string name="button_settings_name">Settings</string>
+    <string name="button_goback_name">Back</string>
+    <string name="button_addprofile_name">Add profile</string>
+    <string name="button_login_name">Login</string>
+    <string name="button_delete_name">Delete</string>
+    <string name="button_next_name">Next</string>
+    <string name="button_view_logs">View logs</string>
+    <string name="button_manage_log_files">Manage log files</string>
+    <string name="button_erase_log_file">Erase</string>
+
+    <string name="text_view_addprofile_name">Add profile</string>
+    <string name="text_view_massjoin_name">Massjoin</string>
+    <string name="text_view_massreact_name">Massreact</string>
+    <string name="text_view_massview_name">Massview</string>
+    <string name="text_view_parsedata_name">Parsedata</string>
+    <string name="text_view_settings_name">Settings</string>
+    <string name="text_view_spam_name">Spam</string>
+    <string name="text_view_account_name">Account</string>
+    <string name="text_view_verify">Verify</string>
+    <string name="text_view_logs">Logs</string>
+    <string name="text_view_main_panel">Main Panel</string>
+    <string name="text_view_manage_log_files">Log files</string>
+</resources>
